@@ -9,11 +9,11 @@ import collections
 
 DATETIME_FORMAT = '%Y-%m-%d %H:%M:%S'
 API_HASH = 'your api hash'
-API_ID = 'your api id'
+API_ID = 'your api id'+7 915 343 6423
 BOT_TOKEN = "your bot token"
-USER_NAME = "your user name"
+USER_NAME = "your user name@ValdemarViktorovich"
 
-client = TelegramClient('data_thief', API_ID, API_HASH)
+client = TelegramClient(05.10.2024
 
 client.connect()
 client.start()
